@@ -64,17 +64,17 @@ To get a local copy up and running, follow these simple steps.
 6.Open http://localhost:3000 in your browser to see the app.
 
 ### Technologies Used
-React.js: Frontend library.
-Spotify Web API: For fetching music data.
-Axios: For making HTTP requests.
-React Router: For handling navigation.
-CSS/SCSS: For styling the app.
-Node.js: For the development environment.
-Spotify Auth: OAuth authentication with Spotify.
+- **React.js**: Frontend library.
+- **Spotify Web API**: For fetching music data.
+- **Axios**: For making HTTP requests.
+- **React Router**: For handling navigation.
+- **CSS/SCSS**: For styling the app.
+- **Node.js**: For the development environment.
+- **Spotify Auth**: OAuth authentication with Spotify.
 
 ### License
 This project is licensed under the MIT License.
 
 ### Acknowledgments
-Spotify for Developers for the API.
-Open-source libraries used in this project.
+- Spotify for Developers for the API.
+- Open-source libraries used in this project.
